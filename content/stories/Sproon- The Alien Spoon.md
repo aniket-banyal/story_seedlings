@@ -1,4 +1,9 @@
-# The Alien Spoon
+---
+title: "Sproon: The Alien Spoon"
+author: "Aniket"
+date: 2023-08-31
+categories: ["Scifi"]
+---
 
 Once upon a time in a small, sleepy town, there lived a curious young boy named Timmy. Timmy had an insatiable appetite for adventure, and his backyard was his playground. One sunny afternoon, while digging in his garden, Timmy unearthed something unusual—a tiny, metallic spoon-like object.
 

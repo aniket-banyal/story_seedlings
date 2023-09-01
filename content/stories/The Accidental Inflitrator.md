@@ -1,4 +1,9 @@
-# The Accidental Inflitrator
+---
+title: "The Accidental Inflitrator"
+author: "Aniket"
+date: 2023-08-31
+categories: ["Thriller"]
+---
 
 John had heard about the hottest party in town, and he was determined to attend. The only problem was that this party required an exclusive pass, and John didn't have one. Determined to gain entry, he hatched a plan.
 

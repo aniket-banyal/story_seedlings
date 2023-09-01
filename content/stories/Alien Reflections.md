@@ -1,4 +1,9 @@
-# Alien Reflections
+---
+title: "Alien Reflections"
+author: "Aniket"
+date: 2023-08-31
+categories: ["Scifi"]
+---
 
 In a bustling city, two women, Sarah and Emma, accidentally bump into each other on a crowded street. They exchange startled glances and suddenly, each believes the other to be her doppelgänger.
 

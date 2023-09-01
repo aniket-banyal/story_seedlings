@@ -1,4 +1,9 @@
-# The Bus Conspiracy
+---
+title: "The Bus Conspiracy"
+author: "Aniket"
+date: 2023-08-31
+categories: ["Thriller"]
+---
 
 In bustling Mumbai, Rohan and Neha met on a bus, sparking an immediate connection. At the last stop they were the only ones left in the bus. Their bus journey took a dark turn when it met with an accident.
 

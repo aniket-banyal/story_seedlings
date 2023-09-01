@@ -1,0 +1,36 @@
+baseURL: "https://example.com"
+languageCode: en-us
+title: Story Seedlings
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello There 👋"
+    Content: >
+      At **Story Seedlings** 🌱, the journey of storytelling begins with a single seed of imagination.
+
+      - Join us on this creative adventure and become a vital part of our story garden, where your ideas can flourish into captivating narratives.
+  socialIcons:
+    - name: github
+      url: "https://github.com/dummy26/story_seedlings/"
+
+  #   cover:
+  #     linkFullImages: true
+
+  # ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShareButtons: ["whatsapp", "telegram", "twitter", "facebook"]
+  ShowPostNavLinks: true
+
+  editPost:
+    URL: "https://github.com/dummy26/story_seedlings/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifier: categories
+      name: Genres
+      url: /categories/
+      weight: 10
