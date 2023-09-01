@@ -14,6 +14,9 @@ params:
     - name: github
       url: "https://github.com/dummy26/story_seedlings/"
 
+  assets:
+    favicon: "/assets/favicon.ico"
+
   #   cover:
   #     linkFullImages: true
 
