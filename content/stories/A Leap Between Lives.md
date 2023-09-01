@@ -1,8 +1,8 @@
 ---
-title: "A Leap Between Lives"
-author: "Aniket"
+title: A Leap Between Lives
+author: Aniket
 date: 2023-08-31
-categories: ["Thriller"]
+categories: [Thriller]
 ---
 
 Aman's life on the ground floor was a tranquil affair, until the day his mischievous feline friend ventured onto the balcony roof. Determined to retrieve his elusive pet, he journeyed to the apartment above, but curiously, his neighbor's door remained eerily unresponsive.

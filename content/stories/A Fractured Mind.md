@@ -1,8 +1,8 @@
 ---
-title: "A Fractured Mind"
-author: "Aniket"
+title: A Fractured Mind
+author: Aniket
 date: 2023-08-31
-categories: ["Thriller"]
+categories: [Thriller]
 ---
 
 In the heart of a bustling city, there lived a man named Daniel who was cursed with a rare and debilitating condition—short-term memory loss. Each day was a blank slate, a fresh start, and an agonizing struggle to piece together the fragments of his life.

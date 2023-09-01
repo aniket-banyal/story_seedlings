@@ -1,8 +1,8 @@
 ---
-title: "The Portal House"
-author: "Aniket"
+title: The Portal House
+author: Aniket
 date: 2023-08-31
-categories: ["Scifi"]
+categories: [Scifi]
 ---
 
 Jonathan had always been a curious soul. His insatiable thirst for adventure often led him to explore abandoned places, seeking to uncover their secrets. One sunny afternoon, while wandering through a quiet, forgotten corner of the city, he stumbled upon an old, decrepit house.

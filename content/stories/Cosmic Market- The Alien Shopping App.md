@@ -1,8 +1,8 @@
 ---
-title: "CosmicMarket: The Alien Shopping App"
-author: "Aniket"
+title: CosmicMarket - The Alien Shopping App
+author: Aniket
 date: 2023-08-31
-categories: ["Scifi"]
+categories: [Scifi]
 ---
 
 One ordinary evening, as Alex scrolls through his phone, he accidentally tap on an unfamiliar icon—a swirling galaxy with a shopping cart at its center. Curiosity piqued, he opens the app to find a vast selection of alien goods, from advanced technology to exotic plants, and even mysterious artifacts.

@@ -1,8 +1,8 @@
 ---
-title: "The Deadly Imagination"
-author: "Aniket"
+title: The Deadly Imagination
+author: Aniket
 date: 2023-08-31
-categories: ["Thriller"]
+categories: [Thriller]
 ---
 
 Once upon a chilling evening in the quiet town of Crestwood, a reclusive writer named Victor Redwood found himself at the peak of his creative prowess. Victor had always been an eccentric figure, dwelling in the shadows, but his mind was a treasure trove of dark tales. That evening, he had just finished crafting four gripping crime stories that were destined to shock and captivate the world.

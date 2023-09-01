@@ -1,8 +1,8 @@
 ---
-title: "The Virtual Warrior"
-author: "Aniket"
+title: The Virtual Warrior
+author: Aniket
 date: 2023-08-31
-categories: ["Scifi"]
+categories: [Scifi]
 ---
 
 John had always dreamt of becoming a soldier. His fascination with the military, the tales of valor, and the idea of protecting his country had been ingrained in him from a young age. So, when he came of age, he made the decision to enlist.

@@ -1,8 +1,8 @@
 ---
-title: "The Ambulance Riddle"
-author: "Aniket"
+title: The Ambulance Riddle
+author: Aniket
 date: 2023-08-31
-categories: ["Thriller"]
+categories: [Thriller]
 ---
 
 Ajay, a diligent college student, had always been known for his kind-hearted nature. On the day of his admission, he decided to share his joy with his fellow students by distributing sweets throughout the college campus. Little did he know that this innocent act of generosity would plunge him into a terrifying ordeal.
