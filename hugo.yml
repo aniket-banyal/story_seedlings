@@ -1,4 +1,4 @@
-baseURL: "https://dummy26.github.io/story_seedlings"
+baseURL: "https://aniket-banyal.github.io/story_seedlings"
 languageCode: en-us
 title: Story Seedlings
 theme: PaperMod
@@ -12,7 +12,7 @@ params:
       - Join us on this creative adventure and become a vital part of our story garden, where your ideas can flourish into captivating narratives.
   socialIcons:
     - name: github
-      url: "https://github.com/dummy26/story_seedlings/"
+      url: "https://github.com/aniket-banyal/story_seedlings/"
 
   assets:
     favicon: "/assets/favicon.ico"
@@ -27,7 +27,7 @@ params:
   ShowPostNavLinks: true
 
   editPost:
-    URL: "https://github.com/dummy26/story_seedlings/tree/main/content"
+    URL: "https://github.com/aniket-banyal/story_seedlings/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
